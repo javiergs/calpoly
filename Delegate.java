@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 public class Delegate {
 
     public int answer (){
-      System.out.println("You have asked the answer a question");
+      System.out.println("You have asked the answer a question!");
       System.out.println("I need to think a while about that one, come back again in 7.5 million years...");
       calculate();
       return give_answer();
