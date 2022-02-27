@@ -1,1 +1,2 @@
-# An example of Continuous Integration with GitHub Actions
+# GitHub Actions
+An example of Continuous Integration with 
